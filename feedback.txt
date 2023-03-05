@@ -1,0 +1,12 @@
+
+images as datatype string  - crt
+is hidden - needed - NO need
+trying to  add the images in upload folder
+
+how to show the images like in grid way 
+
+need to explore 
+cart history - already purchased books
+
+cloudnary - to store the images  
+Rest API - routes 
